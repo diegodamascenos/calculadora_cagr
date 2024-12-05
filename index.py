@@ -12,7 +12,7 @@ with st.sidebar:
 
     st.write('Essa taxa mostra o quanto os valores cresceram (ou diminuíram), de maneira composta, no período analisado.')
 
-    st.write('De maneira bem simples, a taxa calculada é “composta” pois leva em conta não somente a variação entre o valor inicial e final, mas também os valores intermediários. É o mesmo princípio do “juro sobre juros”.')
+    st.write('De maneira bem simples, é Avaliar o desempenho de um investimento ao longo do tempo. Comparar o crescimento de diferentes ativos ou empresas em um período. Entender a consistência do crescimento, eliminando flutuações de curto prazo. ')
 
 st.title('Calculadora CAGR (Taxa de Crescimento Anual Composta)')
 
